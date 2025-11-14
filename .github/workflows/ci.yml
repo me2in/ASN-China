@@ -24,6 +24,7 @@ jobs:
         run: |
           python scripts/IP_CN.py
           python scripts/ASN_CN.py
+          python scripts/ASN_CN_CLASH.py
           python scripts/ASN_US.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
