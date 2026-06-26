@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-06-25 16:49:16
+// Last Updated: UTC 2026-06-26 16:43:56
 // Made by Vincent, All rights reserved.
 
 // Zhejiang Taobao Network Co.,Ltd
@@ -54,16 +54,16 @@ IP-ASN,7497
 IP-ASN,146788
 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137753
-// Yaoheng Digital (Shanghai) Technology Co., Ltd.
-IP-ASN,202782
-// China Netcom Backbone
-IP-ASN,9929
 // ZTE Corporation
 IP-ASN,135426
-// UNION FU WAH DIGITAL TECHNOLOGY LIMITED
-IP-ASN,134578
+// China Netcom Backbone
+IP-ASN,9929
+// Yaoheng Digital (Shanghai) Technology Co., Ltd.
+IP-ASN,202782
 // Shanghai ruisu network technology co.,LTD
 IP-ASN,58879
+// UNION FU WAH DIGITAL TECHNOLOGY LIMITED
+IP-ASN,134578
 // Yifu Yu
 IP-ASN,44421
 // Tianhai InfoTech
@@ -596,8 +596,6 @@ IP-ASN,17799
 IP-ASN,17739
 // Fredyun Network
 IP-ASN,154402
-// Wang Lin
-IP-ASN,153034
 // Zhao Chenglin
 IP-ASN,152920
 // Mintel Holding Limited
@@ -742,8 +740,6 @@ IP-ASN,134766
 IP-ASN,134765
 // CHINANET Guangdong province network
 IP-ASN,134764
-// CHINANET Liaoning province Dalian MAN network
-IP-ASN,134762
 // Shijiazhuang IDC network, CHINANET Hebei province
 IP-ASN,134760
 // China Unicom IP network
@@ -1042,6 +1038,8 @@ IP-ASN,154315
 IP-ASN,154010
 // Li Ruizhi
 IP-ASN,153057
+// Wang Lin
+IP-ASN,153034
 // Shang Xu
 IP-ASN,153033
 // Lin Xiangliang
@@ -1298,6 +1296,8 @@ IP-ASN,136959
 IP-ASN,136769
 // ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD
 IP-ASN,136766
+// Chen Jitong
+IP-ASN,136725
 // CHINANET Guangdong province Yuedong MAN network
 IP-ASN,136199
 // Xiong'an, Hebei Province, P.R.China.
@@ -1322,6 +1322,8 @@ IP-ASN,134768
 IP-ASN,134767
 // CHINANET Guangdong province network
 IP-ASN,134763
+// CHINANET Liaoning province Dalian MAN network
+IP-ASN,134762
 // China Unicom Guangdong IP network
 IP-ASN,134543
 // CTJ's Global Network
@@ -10436,8 +10438,6 @@ IP-ASN,137402
 IP-ASN,137401
 // CatIO Network
 IP-ASN,137256
-// Chen Jitong
-IP-ASN,136725
 // Yang Mengqi
 IP-ASN,136535
 // Kano Network
