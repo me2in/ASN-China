@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-06-28 16:29:54
+// Last Updated: UTC 2026-06-29 17:04:27
 // Made by Vincent, All rights reserved.
 
 // Zhejiang Taobao Network Co.,Ltd
@@ -64,10 +64,10 @@ IP-ASN,135426
 IP-ASN,58879
 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,134578
-// SiChuan XunYou Network Technologe Limit, co
-IP-ASN,146834
 // Tianhai InfoTech
 IP-ASN,4842
+// SiChuan XunYou Network Technologe Limit, co
+IP-ASN,146834
 // BILIBILI HK LIMITED
 IP-ASN,140633
 // Hangzhou Alibaba Advertising Co.,Ltd.
@@ -98,8 +98,6 @@ IP-ASN,38365
 IP-ASN,58466
 // China Internet Network Infomation Center
 IP-ASN,24151
-// Fan Zhang
-IP-ASN,209294
 // Guangzhou navigation information technology co., LTD
 IP-ASN,59045
 // China TieTong Telecommunications Corporation
@@ -112,6 +110,8 @@ IP-ASN,59019
 IP-ASN,38283
 // China Unicom Guangdong IP network
 IP-ASN,136958
+// Fan Zhang
+IP-ASN,209294
 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,63648
 // Gopay Information Technology Co.,Ltd
@@ -572,6 +572,8 @@ IP-ASN,24141
 IP-ASN,23842
 // Tianjin Tianzhan Technology Co., Ltd.
 IP-ASN,216224
+// Peng Wang
+IP-ASN,215786
 // Tianjin Compatible Network Technology Co., Ltd.
 IP-ASN,214848
 // GUI JIANG
@@ -984,8 +986,6 @@ IP-ASN,23839
 IP-ASN,23662
 // CHINANET Gansu province network
 IP-ASN,23611
-// Peng Wang
-IP-ASN,215786
 // Xing Qingyu
 IP-ASN,215502
 // Zhuhai Xiyun Cloud Technology Co., Ltd.
