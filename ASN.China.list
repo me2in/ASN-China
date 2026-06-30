@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-06-29 17:04:27
+// Last Updated: UTC 2026-06-30 16:46:56
 // Made by Vincent, All rights reserved.
 
 // Zhejiang Taobao Network Co.,Ltd
@@ -54,12 +54,12 @@ IP-ASN,7497
 IP-ASN,146788
 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137753
+// ZTE Corporation
+IP-ASN,135426
 // China Netcom Backbone
 IP-ASN,9929
 // Yaoheng Digital (Shanghai) Technology Co., Ltd.
 IP-ASN,202782
-// ZTE Corporation
-IP-ASN,135426
 // Shanghai ruisu network technology co.,LTD
 IP-ASN,58879
 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
@@ -98,6 +98,8 @@ IP-ASN,38365
 IP-ASN,58466
 // China Internet Network Infomation Center
 IP-ASN,24151
+// Fan Zhang
+IP-ASN,209294
 // Guangzhou navigation information technology co., LTD
 IP-ASN,59045
 // China TieTong Telecommunications Corporation
@@ -110,8 +112,6 @@ IP-ASN,59019
 IP-ASN,38283
 // China Unicom Guangdong IP network
 IP-ASN,136958
-// Fan Zhang
-IP-ASN,209294
 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,63648
 // Gopay Information Technology Co.,Ltd
@@ -238,6 +238,8 @@ IP-ASN,9818
 IP-ASN,9812
 // Shanghai Kuanhui Tech. Co.,ltd
 IP-ASN,59083
+// QingDao WangXin Telcom Corp. Limited
+IP-ASN,59009
 // China Financial Certification Authority
 IP-ASN,58866
 // CONAC (China Organizational Name Administration Center)
@@ -278,8 +280,6 @@ IP-ASN,213625
 IP-ASN,212532
 // State Power Information Net
 IP-ASN,18241
-// NO.11 Xi San Huan Zhong Road,Beijing
-IP-ASN,18239
 // CITIC Networks Management Co.,Ltd.
 IP-ASN,18118
 // ShenZhen Topway Video Communication Co. Ltd
@@ -292,6 +292,8 @@ IP-ASN,17429
 IP-ASN,152711
 // Hong Kong University of Science and Technology, Dongchung Town,
 IP-ASN,146814
+// DATAWAVE GLOBAL LLC
+IP-ASN,142433
 // China Mobile Group Guangdong communications corporation
 IP-ASN,141425
 // HeFei
@@ -322,6 +324,8 @@ IP-ASN,9939
 IP-ASN,9811
 // Data Management Centre National Bureau of Statistics of China
 IP-ASN,9807
+// BEIJING SHENZHOU GREATWALL COMMUNICATION
+IP-ASN,9389
 // China Broadcasting TV Net
 IP-ASN,7641
 // Jishi Media Co ., Ltd.
@@ -342,8 +346,6 @@ IP-ASN,59067
 IP-ASN,59029
 // China Grain Reserves Group LTD.Company
 IP-ASN,59012
-// QingDao WangXin Telcom Corp. Limited
-IP-ASN,59009
 // Kaopu Cloud
 IP-ASN,58854
 // Guangdong Cable Corporation Limited
@@ -390,6 +392,8 @@ IP-ASN,214575
 IP-ASN,211843
 // Jin Shaohai
 IP-ASN,209306
+// NO.11 Xi San Huan Zhong Road,Beijing
+IP-ASN,18239
 // ChongQing Broadcast & TV Transfer Network Co. Ltd
 IP-ASN,17969
 // Beijing Dian-Xin-Tong Network Technologies Co., Ltd.
@@ -460,8 +464,6 @@ IP-ASN,9805
 IP-ASN,9803
 // Test platform Service Center
 IP-ASN,9405
-// BEIJING SHENZHOU GREATWALL COMMUNICATION
-IP-ASN,9389
 // RongHua Road No.11, Beijing Economy Technology Development Area, 100176
 IP-ASN,9306
 // Qin Cloud Networks
@@ -634,8 +636,6 @@ IP-ASN,146812
 IP-ASN,146782
 // ShangHai Sensetime Technology Development Co., Ltd.
 IP-ASN,146758
-// DATAWAVE GLOBAL LLC
-IP-ASN,142433
 // China Telecom
 IP-ASN,141998
 // China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
@@ -1400,8 +1400,6 @@ IP-ASN,56004
 IP-ASN,55641
 // Xiaodong Qi
 IP-ASN,49904
-// Dong Ran Yang
-IP-ASN,49575
 // Tsinghua University
 IP-ASN,45576
 // BII Group Holding Ltd.
