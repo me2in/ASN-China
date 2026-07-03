@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-07-02 16:37:51
+// Last Updated: UTC 2026-07-03 17:24:54
 // Made by Vincent, All rights reserved.
 
 // Zhejiang Taobao Network Co.,Ltd
@@ -78,12 +78,12 @@ IP-ASN,55990
 IP-ASN,45090
 // IDC, China Telecommunications Corporation
 IP-ASN,23724
-// Yifu Yu
-IP-ASN,44421
 // Trans-Eurasia Information Network (TEIN2) - SG
 IP-ASN,24490
 // China Telecom (Group)
 IP-ASN,4811
+// Yifu Yu
+IP-ASN,44421
 // XIN BING XIAN
 IP-ASN,199310
 // Beijing Volcano Engine Technology Co., Ltd.
@@ -102,6 +102,8 @@ IP-ASN,24151
 IP-ASN,59045
 // China TieTong Telecommunications Corporation
 IP-ASN,24138
+// Fan Zhang
+IP-ASN,209294
 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,59019
 // CHINANET SiChuan Telecom Internet Data Center
@@ -110,8 +112,6 @@ IP-ASN,38283
 IP-ASN,136958
 // China Enterprise ICT Solutions Limited
 IP-ASN,10212
-// Fan Zhang
-IP-ASN,209294
 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,63648
 // Gopay Information Technology Co.,Ltd
@@ -208,6 +208,10 @@ IP-ASN,38019
 IP-ASN,37965
 // Beijing Gu Xiang Information Technology Co.,Ltd.
 IP-ASN,24424
+// Hangzhou Yingyun Network Technology Co., Ltd.
+IP-ASN,204211
+// Wen ZhangYu
+IP-ASN,201674
 // TermRat Network Limited
 IP-ASN,154648
 // China Telecom
@@ -262,10 +266,6 @@ IP-ASN,23853
 IP-ASN,23844
 // XIAO YANG WEN RUI
 IP-ASN,212532
-// Hangzhou Yingyun Network Technology Co., Ltd.
-IP-ASN,204211
-// Wen ZhangYu
-IP-ASN,201674
 // State Power Information Net
 IP-ASN,18241
 // ShenZhen Topway Video Communication Co. Ltd
@@ -438,6 +438,8 @@ IP-ASN,134761
 IP-ASN,134420
 // China Telecom Fujian Fuzhou IDC
 IP-ASN,133774
+// Tencent Cloud Computing (Beijing) Co., Ltd
+IP-ASN,133478
 // China Unicom IP network
 IP-ASN,133119
 // Beijing Foreign Studies University
@@ -510,6 +512,8 @@ IP-ASN,58852
 IP-ASN,58777
 // China Telecom Guangdong IDC
 IP-ASN,58543
+// China Telecom Xiangtan
+IP-ASN,58541
 // CONAC (China Organizational Name Administration Center)
 IP-ASN,58448
 // China Mobile communications corporation
@@ -760,8 +764,6 @@ IP-ASN,133776
 IP-ASN,133775
 // DOORPOST Limited
 IP-ASN,133555
-// Tencent Cloud Computing (Beijing) Co., Ltd
-IP-ASN,133478
 // Duke Kunshan University
 IP-ASN,133465
 // CERNET New Technology Co., Ltd
@@ -866,8 +868,6 @@ IP-ASN,58851
 IP-ASN,58772
 // CHINANET Guizhou province network
 IP-ASN,58571
-// China Telecom Xiangtan
-IP-ASN,58541
 // China Telecom Changsha
 IP-ASN,58539
 // China Telecom
@@ -10456,5 +10456,3 @@ IP-ASN,133492
 IP-ASN,132623
 // XINJIANG BROADCAST NETWORK CO.,LTD
 IP-ASN,131526
-// Haitong Securities Company Limited
-IP-ASN,131521
