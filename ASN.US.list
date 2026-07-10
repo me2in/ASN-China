@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-07-09 17:54:58
+// Last Updated: UTC 2026-07-10 17:47:11
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -542,7 +542,7 @@ IP-ASN,22296
 IP-ASN,6853
 // Purple Computer North America, Inc.
 IP-ASN,14054
-// Crown Castle Fiber LLC
+// Zayo Bandwidth
 IP-ASN,33132
 // CyrusOne LLC
 IP-ASN,62
@@ -9610,7 +9610,7 @@ IP-ASN,6103
 IP-ASN,6091
 // Ernst & Young LLP
 IP-ASN,609
-// ASN block not managed by the RIPE NCC
+// Anthropic, PBC
 IP-ASN,60808
 // PHOENIX NAP, LLC.
 IP-ASN,60558
@@ -22668,7 +22668,7 @@ IP-ASN,26700
 IP-ASN,26699
 // PARAMOUNT SOFTWARE ASSOCIATES, INC.
 IP-ASN,26698
-// Cubed Networks LLC
+// Bogle Networks LLC
 IP-ASN,26695
 // Dash Financial Technologies LLC
 IP-ASN,26683
@@ -29946,7 +29946,7 @@ IP-ASN,399281
 IP-ASN,399276
 // Jasper County REMC
 IP-ASN,399274
-// PowerBill Utility Billing Solutions Inc.
+// Rise Commercial District
 IP-ASN,399263
 // NORTHWEST OHIO BROADBAND, LLC
 IP-ASN,399255
@@ -36680,8 +36680,6 @@ IP-ASN,14123
 IP-ASN,1412
 // PENN NATIONAL GAMING
 IP-ASN,14119
-// otto Host LLC
-IP-ASN,14099
 // Country Mile Wireless, Inc
 IP-ASN,14097
 // First Rate, Inc.
@@ -37812,7 +37810,7 @@ IP-ASN,395893
 IP-ASN,395887
 // SERVOSPHERE
 IP-ASN,395878
-// tamCloud, Inc.
+// tamCloud, Incorporated
 IP-ASN,395841
 // Usenet Solutions LLC
 IP-ASN,395661
