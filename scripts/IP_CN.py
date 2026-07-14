@@ -9,6 +9,8 @@ Telegram: https://t.me/missuo
 Copyright © 2022 by Vincent, All Rights Reserved. 
 '''
 
+import os
+
 import requests
 
 allChina = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china.list"
@@ -17,14 +19,17 @@ v4China = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-ch
 
 v6China = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china6.list"
 
-r = requests.get(allChina) 
-with open("IP.China.list", "wb") as allChinaIP:
-         allChinaIP.write(r.content)
+def syncFile(url, fileName):
+    content = requests.get(url).content
+    if os.path.exists(fileName):
+        with open(fileName, "rb") as f:
+            if f.read() == content:
+                print("{}: no changes, skip updating.".format(fileName))
+                return
+    with open(fileName, "wb") as f:
+        f.write(content)
+    print("{}: updated.".format(fileName))
 
-r = requests.get(v4China) 
-with open("IPv4.China.list", "wb") as v4ChinaIP:
-         v4ChinaIP.write(r.content)
-
-r = requests.get(v6China) 
-with open("IPv6.China.list", "wb") as v6ChinaIP:
-         v6ChinaIP.write(r.content)
+syncFile(allChina, "IP.China.list")
+syncFile(v4China, "IPv4.China.list")
+syncFile(v6China, "IPv6.China.list")

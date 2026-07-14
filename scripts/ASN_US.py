@@ -8,18 +8,15 @@ Telegram: https://t.me/missuo
 
 Copyright © 2022 by Vincent, All Rights Reserved. 
 '''
-import requests
-from lxml import etree
+import os
 import time
 
-def initFile():
-    localTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    with open("ASN.US.list", "w") as asnFile:
-        asnFile.write("// ASN Information in US. (https://github.com/missuo/ASN-China)\n")
-        asnFile.write("// Last Updated: UTC " + localTime + "\n")
-        asnFile.write("// Made by Vincent, All rights reserved.\n\n")
+import requests
+from lxml import etree
 
-def saveLatestASN():
+FILE_NAME = "ASN.US.list"
+
+def fetchLatestASN():
     url = "https://bgp.he.net/country/US"
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
@@ -27,15 +24,47 @@ def saveLatestASN():
     r = requests.get(url = url, headers = headers).text
     tree = etree.HTML(r)
     asns = tree.xpath('//*[@id="asns"]/tbody/tr')
-    initFile()
+    entries = []
     for asn in asns:
-        asnNumber = asn.xpath('td[1]/a')[0].text.replace('AS','')
+        asnNumber = asn.xpath('td[1]/a')[0].text.replace('AS', '')
         asnName = asn.xpath('td[2]')[0].text
         if asnName != None:
-            asnName = asnName.strip()
-            asnInfo = "// {}\nIP-ASN,{}".format(asnName, asnNumber)
-            with open("ASN.US.list", "a") as asnFile:
-                asnFile.write(asnInfo)
-                asnFile.write("\n")
+            entries.append((asnNumber, asnName.strip()))
+    return entries
+
+def readExistingEntries():
+    if not os.path.exists(FILE_NAME):
+        return None
+    entries = []
+    prevLine = ""
+    with open(FILE_NAME, "r") as asnFile:
+        for line in asnFile:
+            line = line.rstrip("\n")
+            if line.startswith("IP-ASN,"):
+                name = prevLine[3:] if prevLine.startswith("// ") else ""
+                entries.append((line[len("IP-ASN,"):], name))
+            prevLine = line
+    return entries
+
+def writeFile(entries):
+    localTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    with open(FILE_NAME, "w") as asnFile:
+        asnFile.write("// ASN Information in US. (https://github.com/missuo/ASN-China)\n")
+        asnFile.write("// Last Updated: UTC " + localTime + "\n")
+        asnFile.write("// Made by Vincent, All rights reserved.\n\n")
+        for asnNumber, asnName in entries:
+            asnFile.write("// {}\nIP-ASN,{}\n".format(asnName, asnNumber))
+
+def saveLatestASN():
+    entries = fetchLatestASN()
+    if not entries:
+        print("No ASN data fetched, keep existing file.")
+        return
+    existing = readExistingEntries()
+    if existing is not None and sorted(entries) == sorted(existing):
+        print("No changes in ASN entries (order ignored), skip updating.")
+        return
+    writeFile(entries)
+    print("ASN entries changed, file updated.")
 
 saveLatestASN()
