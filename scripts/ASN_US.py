@@ -55,16 +55,23 @@ def writeFile(entries):
         for asnNumber, asnName in entries:
             asnFile.write("// {}\nIP-ASN,{}\n".format(asnName, asnNumber))
 
+def sortedEntries(entries):
+    return sorted(entries)
+
 def saveLatestASN():
     entries = fetchLatestASN()
     if not entries:
         print("No ASN data fetched, keep existing file.")
         return
     existing = readExistingEntries()
-    if existing is not None and sorted(entries) == sorted(existing):
-        print("No changes in ASN entries (order ignored), skip updating.")
-        return
+    if existing is not None:
+        if existing == entries:
+            print("{}: no changes, skip updating.".format(FILE_NAME))
+            return
+        if sortedEntries(existing) == sortedEntries(entries):
+            print("{}: only order changed, skip updating.".format(FILE_NAME))
+            return
     writeFile(entries)
-    print("ASN entries changed, file updated.")
+    print("{}: ASN entries changed, file updated.".format(FILE_NAME))
 
 saveLatestASN()

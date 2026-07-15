@@ -23,12 +23,20 @@ def syncFile(url, fileName):
     content = requests.get(url).content
     if os.path.exists(fileName):
         with open(fileName, "rb") as f:
-            if f.read() == content:
+            existingContent = f.read()
+            if existingContent == content:
                 print("{}: no changes, skip updating.".format(fileName))
+                return
+            if sortedLines(existingContent) == sortedLines(content):
+                print("{}: only order changed, skip updating.".format(fileName))
                 return
     with open(fileName, "wb") as f:
         f.write(content)
     print("{}: updated.".format(fileName))
+
+def sortedLines(content):
+    text = content.decode("utf-8")
+    return sorted(line.strip() for line in text.splitlines() if line.strip())
 
 syncFile(allChina, "IP.China.list")
 syncFile(v4China, "IPv4.China.list")
