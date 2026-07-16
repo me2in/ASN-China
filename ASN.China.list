@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-07-15 02:56:08
+// Last Updated: UTC 2026-07-16 17:14:38
 // Made by Vincent, All rights reserved.
 
 // Zhejiang Taobao Network Co.,Ltd
@@ -42,8 +42,6 @@ IP-ASN,4812
 IP-ASN,24400
 // China Unicom Shanghai network
 IP-ASN,17621
-// XingRui Li
-IP-ASN,208754
 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,142111
 // China Mobile communications corporation
@@ -70,6 +68,8 @@ IP-ASN,146834
 IP-ASN,4842
 // Liu HaoRan
 IP-ASN,213605
+// XingRui Li
+IP-ASN,208754
 // BILIBILI HK LIMITED
 IP-ASN,140633
 // Hangzhou Alibaba Advertising Co.,Ltd.
@@ -98,10 +98,10 @@ IP-ASN,56046
 IP-ASN,38365
 // CHINANET Guangdong province network
 IP-ASN,58466
-// Guangzhou navigation information technology co., LTD
-IP-ASN,59045
 // China Internet Network Infomation Center
 IP-ASN,24151
+// Guangzhou navigation information technology co., LTD
+IP-ASN,59045
 // China TieTong Telecommunications Corporation
 IP-ASN,24138
 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
@@ -210,6 +210,8 @@ IP-ASN,24424
 IP-ASN,23911
 // Wen ZhangYu
 IP-ASN,201674
+// ShenZhen Topway Video Communication Co. Ltd
+IP-ASN,17962
 // TermRat Network Limited
 IP-ASN,154648
 // Aiyun (HK) Network
@@ -270,16 +272,12 @@ IP-ASN,212532
 IP-ASN,204211
 // State Power Information Net
 IP-ASN,18241
-// ShenZhen Topway Video Communication Co. Ltd
-IP-ASN,17962
 // shanghai science and technology network communication limited company
 IP-ASN,17775
 // BEIJING GEHUA CATV NETWORK CO.LTD
 IP-ASN,17429
 // Jilin Province Brick Business Service Limited
 IP-ASN,153376
-// Hong Kong University of Science and Technology, Dongchung Town,
-IP-ASN,146814
 // China Mobile Group Guangdong communications corporation
 IP-ASN,141425
 // HeFei
@@ -422,6 +420,8 @@ IP-ASN,151302
 IP-ASN,148981
 // ChinaDataCom Corporation Limited
 IP-ASN,146842
+// Hong Kong University of Science and Technology, Dongchung Town,
+IP-ASN,146814
 // Agatha Network
 IP-ASN,141429
 // China Mobile Group AnHui communications corporation
@@ -884,6 +884,8 @@ IP-ASN,59025
 IP-ASN,59016
 // Beijing Yunlin Network Technology Co.,Ltd.
 IP-ASN,59011
+// China Internet Network Infomation Center
+IP-ASN,58858
 // Priority of Fashion(Beijing)Information Technology Co.,Ltd
 IP-ASN,58851
 // CHINANET Fujian province Fuzhou IDC network
@@ -944,8 +946,6 @@ IP-ASN,45057
 IP-ASN,38379
 // Foshan Tongyuan Intelligent Technology Co., Ltd
 IP-ASN,38372
-// APNIC ASN block
-IP-ASN,38371
 // RM 1706,Block A,Ocean Express,No.66
 IP-ASN,38364
 // HEXIE Information technology Co., Ltd.
