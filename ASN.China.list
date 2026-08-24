@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-08-23 16:22:56
+// Last Updated: UTC 2026-08-24 16:35:24
 // Made by Vincent, All rights reserved.
 
 // Zhejiang Taobao Network Co.,Ltd
@@ -16,10 +16,10 @@ IP-ASN,55967
 IP-ASN,146762
 // China Unicom Backbone
 IP-ASN,4837
-// China Telecom Next Generation Carrier Network
-IP-ASN,4809
 // Zeofast Network
 IP-ASN,10111
+// China Telecom Next Generation Carrier Network
+IP-ASN,4809
 // China Unicom Beijing Province Network
 IP-ASN,4808
 // Wu Zhiyuan
@@ -66,10 +66,10 @@ IP-ASN,134578
 IP-ASN,58879
 // Tianhai InfoTech
 IP-ASN,4842
-// BILIBILI HK LIMITED
-IP-ASN,140633
 // SiChuan XunYou Network Technologe Limit, co
 IP-ASN,146834
+// BILIBILI HK LIMITED
+IP-ASN,140633
 // Hangzhou Alibaba Advertising Co.,Ltd.
 IP-ASN,37963
 // IDC, China Telecommunications Corporation
@@ -82,12 +82,12 @@ IP-ASN,209294
 IP-ASN,55990
 // China Telecom (Group)
 IP-ASN,4811
-// Yifu Yu
-IP-ASN,44421
 // Trans-Eurasia Information Network (TEIN2) - SG
 IP-ASN,24490
 // Shuangyu Communications Technology Co., Limited
 IP-ASN,137995
+// Yifu Yu
+IP-ASN,44421
 // Beijing Volcano Engine Technology Co., Ltd.
 IP-ASN,137718
 // CYPRESS TELECOM (CHINA) LIMITED
@@ -202,8 +202,6 @@ IP-ASN,4816
 IP-ASN,38019
 // Beijing Gu Xiang Information Technology Co.,Ltd.
 IP-ASN,24424
-// Wen ZhangYu
-IP-ASN,201674
 // ShenZhen Topway Video Communication Co. Ltd
 IP-ASN,17962
 // TermRat Network Limited
@@ -270,6 +268,8 @@ IP-ASN,24139
 IP-ASN,23853
 // Beijing Guanghuan Xinwang Digital
 IP-ASN,23844
+// Wen ZhangYu
+IP-ASN,201674
 // State Power Information Net
 IP-ASN,18241
 // shanghai science and technology network communication limited company
@@ -1156,8 +1156,6 @@ IP-ASN,152920
 IP-ASN,152120
 // Shenzhen lesuyun Network Technology Co., Ltd
 IP-ASN,151951
-// Bengbu Qingye Technology
-IP-ASN,151640
 // Shanghai Luogu Network Technology Co., Ltd.
 IP-ASN,151464
 // Shenzhen Humeng Technology Co., Ltd
