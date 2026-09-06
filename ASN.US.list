@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-09-05 17:55:54
+// Last Updated: UTC 2026-09-06 18:02:01
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -35036,6 +35036,8 @@ IP-ASN,218936
 IP-ASN,218930
 // Buggs Island Telephone Cooperative
 IP-ASN,21891
+// ProWave Groups LLC
+IP-ASN,218869
 // McLane Advanced Technologies, LLC
 IP-ASN,21885
 // Kikix LLC
