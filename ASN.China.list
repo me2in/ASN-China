@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-09-04 18:49:35
+// Last Updated: UTC 2026-09-08 19:16:26
 // Made by Vincent, All rights reserved.
 
 // Zhejiang Taobao Network Co.,Ltd
@@ -1304,7 +1304,7 @@ IP-ASN,138029
 IP-ASN,137795
 // Shanxi Beacon Cloudscape
 IP-ASN,137788
-// CACloud Services (Shanghai) Co., Ltd.
+// YBY Technology (Shanghai) Co., Ltd.
 IP-ASN,137784
 // MTS SYSTEM (China) Co.,Ltd
 IP-ASN,137759
@@ -1388,7 +1388,7 @@ IP-ASN,131482
 IP-ASN,10981
 // Future Internet Technology Infrastructure (FITI)
 IP-ASN,9425
-// China telecom â China Next Generation Internet
+// China telecom A?A?A? China Next Generation Internet
 IP-ASN,59265
 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,58828
@@ -1650,6 +1650,8 @@ IP-ASN,198516
 IP-ASN,198266
 // YONG LI
 IP-ASN,198135
+// Hangzhou Silicon-based Agile Technology Limited
+IP-ASN,198078
 // Yucheng Zhu
 IP-ASN,198025
 // XU ZIYAO
