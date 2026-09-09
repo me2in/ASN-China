@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-09-08 19:16:27
+// Last Updated: UTC 2026-09-09 19:05:29
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -23776,8 +23776,6 @@ IP-ASN,21512
 IP-ASN,2149
 // RATATOSKR LLC
 IP-ASN,214732
-// Offshore LC
-IP-ASN,214472
 // Prism Cloud LLC
 IP-ASN,214150
 // Yaman Hosting LLC
