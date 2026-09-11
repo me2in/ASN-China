@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-09-10 18:57:30
+// Last Updated: UTC 2026-09-11 18:59:15
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -12014,7 +12014,7 @@ IP-ASN,393526
 IP-ASN,393500
 // Underground Service Alert of Southern California
 IP-ASN,393492
-// Yeo & Yeo CPAs & Business Consultants
+// YEO & YEO CPAS & ADVISORS
 IP-ASN,393483
 // Nuclearfallout Enterprises, Inc.
 IP-ASN,393458
@@ -28894,6 +28894,8 @@ IP-ASN,401640
 IP-ASN,401627
 // Netiface America, Inc.
 IP-ASN,401626
+// Viettell
+IP-ASN,401617
 // Hunter Web LLC
 IP-ASN,401608
 // Panchal LLC
