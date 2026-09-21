@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-09-16 19:22:53
+// Last Updated: UTC 2026-09-21 20:16:26
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -38032,6 +38032,8 @@ IP-ASN,219383
 IP-ASN,219255
 // Yuri Systems LLC
 IP-ASN,218890
+// N.R. Digital LLC
+IP-ASN,218876
 // James Jones
 IP-ASN,218794
 // V6 FOR YOU LLC
