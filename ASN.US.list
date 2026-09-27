@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-09-26 19:01:47
+// Last Updated: UTC 2026-09-27 19:32:52
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -404,7 +404,7 @@ IP-ASN,33182
 IP-ASN,53343
 // Salesforce, Inc.
 IP-ASN,14340
-// GREEN FLOID LLC
+// ROUTE 95 LLC
 IP-ASN,21100
 // Triplebit
 IP-ASN,401332
@@ -35240,6 +35240,8 @@ IP-ASN,210305
 IP-ASN,210266
 // EXACT DIGITAL LLC
 IP-ASN,210097
+// Greenwave Mobile IoT ApS
+IP-ASN,210031
 // Del Andujar
 IP-ASN,209827
 // M&A GOODS LLC
