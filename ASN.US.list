@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-09-28 21:36:02
+// Last Updated: UTC 2026-09-30 20:33:27
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -35200,6 +35200,8 @@ IP-ASN,213954
 IP-ASN,213912
 // Nathan Moore
 IP-ASN,213801
+// ALPEREN KARABIYIK
+IP-ASN,213570
 // Eric Johnson
 IP-ASN,213510
 // Netomat LLC
