@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-10-08 21:02:29
+// Last Updated: UTC 2026-10-10 19:47:14
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -572,8 +572,6 @@ IP-ASN,4258
 IP-ASN,30688
 // Syringa Networks, LLC
 IP-ASN,15305
-// Tempest Hosting, LLC
-IP-ASN,36231
 // Planet Networks
 IP-ASN,3580
 // University of Washington
@@ -11716,7 +11714,7 @@ IP-ASN,394887
 IP-ASN,394881
 // Tacoma Public Utilities
 IP-ASN,394865
-// Stratus Video, LLC
+// AMN Healthcare Language Services, Inc.
 IP-ASN,394855
 // AllCare Management Services, LLC
 IP-ASN,394832
@@ -16836,6 +16834,8 @@ IP-ASN,46492
 IP-ASN,46490
 // BLS Broadband
 IP-ASN,46488
+// Vecima Networks Inc.
+IP-ASN,46482
 // SimpleFiber Communications LLC
 IP-ASN,46473
 // Madison Commercial Real Estate Services, LLC
@@ -33246,8 +33246,6 @@ IP-ASN,32352
 IP-ASN,32346
 // Community High School District 99
 IP-ASN,32344
-// ZenWalk
-IP-ASN,32340
 // FivePoint Networks, LLC
 IP-ASN,32331
 // Alascom, Inc.
