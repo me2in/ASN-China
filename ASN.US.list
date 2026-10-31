@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-10-24 18:35:34
+// Last Updated: UTC 2026-10-31 13:29:45
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -23358,8 +23358,6 @@ IP-ASN,22693
 IP-ASN,22671
 // Sparta Community Hospital
 IP-ASN,22668
-// Ungage Capital LLC
-IP-ASN,22665
 // CodingDirect LLC
 IP-ASN,22649
 // Southwest Gas Corporation
@@ -34812,6 +34810,8 @@ IP-ASN,22547
 IP-ASN,22546
 // Cardinal Health, Inc.
 IP-ASN,22539
+// IBM Business Consulting Services
+IP-ASN,22538
 // Telerent Leasing Corporation
 IP-ASN,22536
 // EPL INC
@@ -35274,8 +35274,6 @@ IP-ASN,206100
 IP-ASN,205958
 // NEON CORE NETWORK LLC
 IP-ASN,205775
-// Ghosty Networks LLC
-IP-ASN,205759
 // Seamus Caveney
 IP-ASN,205602
 // Hostigger INC.
