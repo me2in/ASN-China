@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-10-31 13:29:45
+// Last Updated: UTC 2026-11-01 20:11:53
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -66,7 +66,7 @@ IP-ASN,4181
 IP-ASN,53828
 // Incapsula Inc
 IP-ASN,19551
-// BRYSON GUWIN
+// Guwin Universal Services LLC
 IP-ASN,201398
 // Amazon.com, Inc.
 IP-ASN,16509
@@ -13792,8 +13792,6 @@ IP-ASN,20467
 IP-ASN,20466
 // TFB NET
 IP-ASN,20460
-// NextServ LLC
-IP-ASN,204464
 // PriceWaterhouseCoopers, LLP
 IP-ASN,20426
 // First Technology Federal Credit Union
@@ -27604,8 +27602,6 @@ IP-ASN,49466
 IP-ASN,4940
 // SCF
 IP-ASN,4923
-// YOUTHIDC LLC
-IP-ASN,49187
 // CENTIER BANK
 IP-ASN,4912
 // CenturyLink Communications, LLC
@@ -38186,8 +38182,6 @@ IP-ASN,200332
 IP-ASN,200329
 // WeilNet, LLC
 IP-ASN,200085
-// NextServ LLC
-IP-ASN,199746
 // FeiYa Network LTD.
 IP-ASN,199465
 // Xkrme Network LLC
