@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-05 21:46:22
+// Last Updated: UTC 2026-11-07 19:53:23
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -3146,6 +3146,8 @@ IP-ASN,63027
 IP-ASN,62553
 // Los Nettos
 IP-ASN,567
+// B2 Net Solutions Inc.
+IP-ASN,55286
 // Converted Networks LLC
 IP-ASN,54613
 // Baker Hughes Holdings LLC
