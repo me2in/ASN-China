@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-11 22:36:11
+// Last Updated: UTC 2026-11-12 22:03:08
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -13756,6 +13756,8 @@ IP-ASN,2140
 IP-ASN,213154
 // Theori Inc
 IP-ASN,212935
+// ETERNITY INTERNATIONAL LIMITED
+IP-ASN,212743
 // Canfield Scientific, Inc.
 IP-ASN,211831
 // Lear Corporation
@@ -38028,6 +38030,8 @@ IP-ASN,22503
 IP-ASN,22400
 // Jevin Dale
 IP-ASN,219525
+// Liangmin Li
+IP-ASN,219397
 // Phillips Community College of the University of Arkansas
 IP-ASN,21939
 // Andrew Lewis
