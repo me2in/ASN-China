@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-12 22:03:08
+// Last Updated: UTC 2026-11-13 21:48:22
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -1918,7 +1918,7 @@ IP-ASN,53591
 IP-ASN,46353
 // JMF Solutions, Inc
 IP-ASN,40805
-// Latin IP LLC
+// BICENTEL, LLC
 IP-ASN,40731
 // SoundStack Technologies, LLC
 IP-ASN,40501
@@ -4492,6 +4492,8 @@ IP-ASN,395487
 IP-ASN,395483
 // Quiktrip Corporation
 IP-ASN,395415
+// Oregon Steel Mills LLC
+IP-ASN,395270
 // Sacramento County Office of Education
 IP-ASN,395226
 // BROADRIDGE SECURITIES PROCESSING SOLUTIONS, LLC
