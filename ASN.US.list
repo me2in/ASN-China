@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-14 20:25:56
+// Last Updated: UTC 2026-11-16 23:59:01
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -294,6 +294,8 @@ IP-ASN,22616
 IP-ASN,14789
 // Latitude.sh
 IP-ASN,396356
+// Unite Private Networks LLC.
+IP-ASN,15164
 // Macarne.com
 IP-ASN,64289
 // CTS Communications Corp
@@ -584,7 +586,7 @@ IP-ASN,62943
 IP-ASN,33132
 // Charter Communications Inc
 IP-ASN,11351
-// GoldConnect
+// Orchest Technologies
 IP-ASN,400317
 // e-planning
 IP-ASN,399668
@@ -1094,7 +1096,7 @@ IP-ASN,16839
 IP-ASN,14978
 // Paul Bunyan Communications
 IP-ASN,14371
-// GiGstreem
+// Gigstreem
 IP-ASN,14277
 // Bluegrass Network LLC
 IP-ASN,11979
