@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-17 23:20:25
+// Last Updated: UTC 2026-11-19 22:54:24
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -35196,6 +35196,8 @@ IP-ASN,213801
 IP-ASN,213570
 // Eric Johnson
 IP-ASN,213510
+// SERVITRO LTD
+IP-ASN,213495
 // Netomat LLC
 IP-ASN,213370
 // VeriSign Inc.
@@ -35622,8 +35624,6 @@ IP-ASN,19683
 IP-ASN,19682
 // Steel City Signal
 IP-ASN,19669
-// Antipov Oleg
-IP-ASN,196629
 // Lehigh Secure Data LLC
 IP-ASN,19656
 // Stronghold Data LLC
