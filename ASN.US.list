@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-19 22:54:24
+// Last Updated: UTC 2026-11-20 22:29:40
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -28332,6 +28332,8 @@ IP-ASN,402864
 IP-ASN,402857
 // Content Critical Solutions
 IP-ASN,402853
+// Codepadnet LLC
+IP-ASN,402829
 // Virterion LLC
 IP-ASN,402826
 // Silo Communications LLC
