@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-20 22:29:40
+// Last Updated: UTC 2026-11-22 21:32:47
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -35274,8 +35274,6 @@ IP-ASN,206226
 IP-ASN,206100
 // Global Network Point LLC
 IP-ASN,205958
-// NEON CORE NETWORK LLC
-IP-ASN,205775
 // Seamus Caveney
 IP-ASN,205602
 // Hostigger INC.
