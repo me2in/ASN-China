@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China)
-// Last Updated: UTC 2026-11-25 00:22:28
+// Last Updated: UTC 2026-11-25 23:59:19
 // Made by Vincent, All rights reserved.
 
 // Hurricane Electric LLC
@@ -8584,8 +8584,6 @@ IP-ASN,203156
 IP-ASN,20314
 // Valero Corporate Services
 IP-ASN,20311
-// Devexperts Inc
-IP-ASN,202894
 // Flexential iNETu Corp.
 IP-ASN,20284
 // Webair Internet Development Company Inc.
@@ -10124,8 +10122,6 @@ IP-ASN,4886
 IP-ASN,4880
 // Cboe
 IP-ASN,4867
-// Devexperts Inc
-IP-ASN,47657
 // Air Liquide America
 IP-ASN,47091
 // Storm8, Inc
